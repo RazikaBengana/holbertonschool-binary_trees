@@ -1,0 +1,5 @@
+/* the average time complexities of those operations on a Binary Heap (one answer per line): */
+
+O(n)  /* Inserting the value n */
+O(n)  /* Extracting the root node */
+O(n)  /* Searching for a node in a binary heap of size n */
