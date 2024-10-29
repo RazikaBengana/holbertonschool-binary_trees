@@ -152,7 +152,7 @@ This project has been created by **[Holberton School](https://www.holbertonschoo
 
 <!-- ------------------------------------------------------------------------------------------------- -->
 
-## :memo: Learning objectives
+## :memo: Learning Objectives
 
 <br>
 
@@ -254,7 +254,7 @@ Don’t forget to include them in your header file.
 
 <br>
 
-```yaml
+```c
 /**
  * struct binary_tree_s - Binary tree node
  *
@@ -281,7 +281,7 @@ typedef struct binary_tree_s binary_tree_t;
 
 <br>
 
-```yaml
+```c
 typedef struct binary_tree_s bst_t;
 ```
 
@@ -292,7 +292,7 @@ typedef struct binary_tree_s bst_t;
 
 <br>
 
-```yaml
+```c
 typedef struct binary_tree_s avl_t;
 ```
 
@@ -303,7 +303,7 @@ typedef struct binary_tree_s avl_t;
 
 <br>
 
-```yaml
+```c
 typedef struct binary_tree_s heap_t;
 ```
 
@@ -364,7 +364,7 @@ They are not `BSTs`, thus they don’t follow any kind of rule.
 
 <br>
 
-**${\color{blue}Razika \space Bengana}$**
+<img src="https://img.shields.io/badge/Razika%20Bengana-darkblue" alt="Razika Bengana" width="120">
 
 <br>
 <br>
